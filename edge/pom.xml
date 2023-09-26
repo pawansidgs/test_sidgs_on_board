@@ -7,7 +7,7 @@
     <name>test_sidgs_on_board</name>
 
     <parent>
-        <groupId>com.hdfc.apigee.commons</groupId>
+        <groupId>com.hdfc.apigee</groupId>
         <artifactId>test_sidgs_on_board-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
