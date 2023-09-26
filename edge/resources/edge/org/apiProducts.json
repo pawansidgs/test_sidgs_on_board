@@ -1,0 +1,29 @@
+[
+    {
+        "name": "test_sidgs_on_boardProduct",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "test_sidgs_on_boardProduct"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "test_sidgs_on_boardProduct",
+        "displayName": "test_sidgs_on_boardProduct",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "test_sidgs_on_board"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]

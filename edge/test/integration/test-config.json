@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"test_sidgs_on_board": {
+		"basepath": "/v1/test_sidgs_on_board",
+		"product":"test_sidgs_on_boardProduct",
+		"app":"test_sidgs_on_boardApp",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}

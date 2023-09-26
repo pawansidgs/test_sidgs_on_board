@@ -1,0 +1,12 @@
+{
+    "integration-tester@hdfc.com": [
+        {
+            "apiProducts": [
+                "test_sidgs_on_boardProduct"
+            ],
+            "callbackUrl": "",
+            "name": "test_sidgs_on_boardApp",
+            "scopes": []
+        }
+    ]
+}
